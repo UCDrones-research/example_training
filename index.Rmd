@@ -1,0 +1,16 @@
+--- 
+title: "Blank Page for Viewing Modules"
+author: "Brandon Stark"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: 
+biblio-style: apalike
+link-citations: yes
+description: "Empty"
+---
+
+# Description
+
+This is a blank site to list and view training modules developed in Articulate360
+

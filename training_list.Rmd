@@ -1,0 +1,11 @@
+# CRM Training
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_url("trainings/CRM/story.html", height="720px")
+```
+
+# VO Training
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_url("trainings/VO_training/story.html", height="720px")
+```

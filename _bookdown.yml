@@ -1,0 +1,8 @@
+book_filename: "example_training"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files: ["index.Rmd",
+            "training_list.Rmd"]
+output_dir: "docs"
