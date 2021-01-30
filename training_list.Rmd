@@ -1,3 +1,9 @@
+# Introduction to Safety Management Systems
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_url("trainings/Intro_to_SMS/story.html", height="720px")
+```
+
 # CRM Training
 
 ```{r echo=FALSE, out.width='100%'}
@@ -9,3 +15,10 @@ knitr::include_url("trainings/CRM/story.html", height="720px")
 ```{r echo=FALSE, out.width='100%'}
 knitr::include_url("trainings/VO_training/story.html", height="720px")
 ```
+
+# Battery Care Training
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_url("trainings/battery_care/story.html", height="720px")
+```
+
