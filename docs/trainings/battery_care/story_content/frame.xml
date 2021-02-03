@@ -1402,7 +1402,7 @@
             <slidelink slideid="_player.5sC7wdVUxBU.6E50RHPkpwz" displaytext="Monitoring Battery Voltage in Flight" expand="false" type="slide" />
             <slidelink slideid="_player.5sC7wdVUxBU.6bdU4w1FLCH" displaytext="Weather and Drones" expand="false" type="slide" />
             <slidelink slideid="_player.5sC7wdVUxBU.69e1DAFGpLo" displaytext="Charging Drone Batteries" expand="false" type="slide" />
-            <slidelink slideid="_player.5sC7wdVUxBU.6XqF9jUuntV" displaytext="Common Battery Issues" expand="false" type="slide" />
+            <slidelink slideid="_player.5sC7wdVUxBU.6XqF9jUuntV" displaytext="Common Battery Warning Signs" expand="false" type="slide" />
             <slidelink slideid="_player.5sC7wdVUxBU.5lf7YIC75lI" displaytext="Top 5 Tips for your Drone Battery" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -1413,13 +1413,14 @@
             <slidelink slideid="_player.5i84Ee29kug.6SuWq6MPiFH" displaytext="What can cause a Battery Fire?" expand="false" type="slide" />
             <slidelink slideid="_player.5i84Ee29kug.6qd6s7vZ8c5" displaytext="What does a LiPo Battery Look Like?" expand="false" type="slide" />
             <slidelink slideid="_player.5i84Ee29kug.5YyzMDRJdZl" displaytext="Fire Mitigation" expand="false" type="slide" />
+            <slidelink slideid="_player.5i84Ee29kug.6PsctBvV7oH" displaytext="Battery Disposal" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5wuR92Aor8r" displaytext="Review" expand="true" type="slide">
+        <slidelink slideid="_player.68o6qUl79HT" displaytext="Module Review" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5wuR92Aor8r.6OGxI92udF7" displaytext="Module Review" expand="false" type="slide" />
-            <slidelink slideid="_player.5wuR92Aor8r.6oGaqoT2DZC" displaytext="Crew Resource Management" expand="false" type="slide" />
-            <slidelink slideid="_player.5wuR92Aor8r.5fC4JpimN9u" displaytext="Crew Resource Management" expand="false" type="slide" />
+            <slidelink slideid="_player.68o6qUl79HT.6c3mkBmmCTo" displaytext="Battery Care and Management" expand="false" type="slide" />
+            <slidelink slideid="_player.68o6qUl79HT.5XzcV5tWZM0" displaytext="Battery Care" expand="false" type="slide" />
+            <slidelink slideid="_player.68o6qUl79HT.5yIUKBz5lC4" displaytext="Module Review" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
